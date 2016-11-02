@@ -1,6 +1,6 @@
 {
   "name": "EH website",
   "tagline": "I don't know what I'm doing",
-  "body": "# This the bomb!\r\n\r\n**What up people**\r\n\r\nThis is just a _test_\r\n\r\nTry and beat this Jessica\r\n",
+  "body": "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01//EN\">\r\n<html>\r\n<head>\r\n  <title>My first styled page</title>\r\n</head>\r\n\r\n<body>\r\n\r\n<!-- Site navigation menu -->\r\n<ul class=\"navbar\">\r\n  <li><a href=\"index.html\">Home page</a>\r\n  <li><a href=\"musings.html\">Musings</a>\r\n  <li><a href=\"town.html\">My town</a>\r\n  <li><a href=\"links.html\">Links</a>\r\n</ul>\r\n\r\n<!-- Main content -->\r\n<h1>My first styled page</h1>\r\n\r\n<p>Welcome to my styled page!\r\n\r\n<p>It lacks images, but at least it has style.\r\nAnd it has links, even if they don't go\r\nanywhere&hellip;\r\n\r\n<p>There should be more here, but I don't know\r\nwhat yet.\r\n\r\n<!-- Sign and date the page, it's only polite! -->\r\n<address>Made 5 April 2004<br>\r\n  by myself.</address>\r\n\r\n</body>\r\n</html>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
